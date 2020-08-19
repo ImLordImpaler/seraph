@@ -1,0 +1,13 @@
+  .parent{
+    left: 0;
+    background-color: rgba(red, green, blue, alpha);
+    background-image: url(https://i.pinimg.com/originals/68/bc/b7/68bcb7000ec29d4f8013bbca20e09f9a.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+  }

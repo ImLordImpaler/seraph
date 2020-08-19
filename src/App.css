@@ -1,0 +1,44 @@
+*{
+  margin: 0%;
+  
+}
+.logoName{
+  font-size: 2rem;
+  margin-left: 10px;
+}
+
+.app__header{
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+.app__body{
+  
+  margin: 0%;
+}
+
+.posts{
+  border: 1px solid lightgray;
+  margin: 10px;
+}
+
+.posts__img{
+  width: 100%;
+  object-fit: contain;
+  margin: 0%;
+  max-width: 1000px;
+  border-bottom: 1px solid black;
+ 
+}
+.avatar{
+ margin-right: 12px;
+}
+
+.post__header{
+  padding: 10px;
+}
+.post__footer{
+  padding: 5px;
+}
+.post__caption{
+  font-size: 20px;
+}
